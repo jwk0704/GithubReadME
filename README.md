@@ -43,6 +43,7 @@
 
 ### 이미지
 ![image](https://github.com/user-attachments/assets/d7656627-baa7-4250-b008-eceb1676ac50)
+> 복사, 붙여넣기로 가능.
 
 
 
